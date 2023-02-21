@@ -1,11 +1,11 @@
-# React Marco Polo
+## Amazon Clone
 
-This mini project is to excercise your react state skills.
-Create an h1 with id="marco-polo" which initially displays "Marco"
-and a button with id="marco-polo-toggler" which initially displays "Polo"
-inside the button.
+NOTE: This is made only for educational purposes, and is in no way associated with Amazon.
 
-On clicking the button the h1 should display "Polo" and the button should 
-display "Marco" inside it, and so on like that".
+## Live app
 
-On each button click, the h1 tag and text inside the button should alternate between "Marco" and "Polo"
+<a href="https://amz-clone-b9eab.web.app/" target="_blank">https://amz-clone-b9eab.web.app/</a>
+
+## Usage
+
+Just use <code>npm install</code> and then <code>npm start</code> and the Development server will start.
